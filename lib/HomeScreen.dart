@@ -13,11 +13,11 @@ import 'package:launch_review/launch_review.dart';
 import 'package:share/share.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-const adUnitIdBanner = "ca-app-pub-7650945113243356/9987806249";
-//const adUnitIdBanner = "ca-app-pub-7650945113243356/5835453917";
-const appID = "ca-app-pub-7650945113243356~5062782624";
-const privacyUrl = 'https://lemontreeapps.github.io/privacy.html';
-const playUrl = 'https://play.google.com/store/apps/developer?id=Incognito+Apps';
+const adUnitIdBanner = "";
+//const adUnitIdBanner = "";
+const appID = "";
+const privacyUrl = '';
+const playUrl = '';
 
 class HomeScreen extends StatefulWidget {
   @override
